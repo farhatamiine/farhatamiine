@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine Farhat</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhatamiine" alt="farhatamiine" /></a> </p>
-
 - 🔭 I’m currently working on [an e-wallet React project](https://github.com/farhatamiine/e-wallet)
 
 - 🌱 I’m currently learning **React,Redux**
