@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amine Farhat</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [an e-wallet React project](https://github.com/farhatamiine/e-wallet)
+- 🔭 I’m currently working on an diabetes application
 
-- 🌱 I’m currently learning **React,Redux**
+- 🌱 I’m currently learning **React,Redux,React Native**
 
 - 📫 How to reach me **farhatamiine@gmail.com**
 
