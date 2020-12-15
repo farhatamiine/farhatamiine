@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an diabetes application
 
-- 🌱 I’m currently learning **React,Redux,React Native**
+- 🌱 I’m currently learning **React,Redux,Next Js**
 
 - 📫 How to reach me **farhatamiine@gmail.com**
 
