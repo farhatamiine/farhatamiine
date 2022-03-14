@@ -25,8 +25,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,flutter,mongodb,java,spring,tailwind,vscode,sass,html,css,js,git,mysql)](https://skillicons.dev)
 
-<br />
-<br />
 
 
 <details>
