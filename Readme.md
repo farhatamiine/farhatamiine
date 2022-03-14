@@ -6,7 +6,7 @@
 
 - 📐 Working on Resume builder
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Reading books and writing blog articles
 - ⚡ Fun fact: I love to draw and play video games
 
 ### Connect with me:
