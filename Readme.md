@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,mongodb,java,spring,tailwind&perline=6)](https://skillicons.dev)
 
 <br />
 <br />
