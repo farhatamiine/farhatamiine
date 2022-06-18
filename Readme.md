@@ -4,7 +4,7 @@
 
 ## I'm a FullStack Developer !!
 
-- 📐 Working on Resume builder
+- 📐 Working on Store Builder
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Reading books and writing blog articles
 - ⚡ Fun fact: I love to draw and play video games
