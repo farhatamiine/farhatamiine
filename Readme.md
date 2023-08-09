@@ -61,6 +61,6 @@
 ###
 
 <br clear="both">
-![Snake animation](https://raw.githubusercontent.com/farhatamiine/farhatamiine/output/snake.svg)
+<img src="https://raw.githubusercontent.com/farhatamiine/farhatamiine/output/snake.svg" alt="Snake animation" />
 
 ###
