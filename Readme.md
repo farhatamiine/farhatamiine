@@ -63,4 +63,5 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/farhatamiine/farhatamiine/output/snake.svg" alt="Snake animation" />
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=z8961kjv24f27taybg5co964i)
 ###
